@@ -408,7 +408,3 @@ npm run build
 5. **Open a Pull Request**: Submit your PR targeting the `main` branch.
 
 ---
-
-## License
-
-This project is licensed under the **MIT License** - see the LICENSE file for details.
